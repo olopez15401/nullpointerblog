@@ -1,0 +1,4 @@
+baseURL = 'https://www.nullpointertech.com'
+languageCode = 'en-us'
+title = 'Nullpointertech.com a blog of tech and shennanigans'
+theme = "stacks"
