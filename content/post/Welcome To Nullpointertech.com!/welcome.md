@@ -1,16 +1,14 @@
 ---
-author: "Oscar Lopez"
 title: Welcome!
 description: First Blog Post
 date: 2022-09-14
 slug: welcome
-image: uca-bravo-alS7ewQ41M8-unsplash.jpg
+image: background.jpg
 categories:
     - Post
     - Welcome
 ---
 
-# Welcome to Nullpointertech.com!
----
+## Welcome to Nullpointertech.com!
+    
     This is my first post and finally building a blog about all my tech studies and projects!
----
