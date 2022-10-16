@@ -3,7 +3,7 @@ title: Welcome!
 description: First Blog Post
 date: 2022-09-14
 slug: welcome
-image: background.jpg
+image: luca-bravo-alS7ewQ41M8-unsplash.jpg
 categories:
     - Post
     - Welcome

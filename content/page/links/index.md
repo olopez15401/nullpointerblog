@@ -1,14 +1,18 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: My Github!
+    description: Github Repository of all my code and projects.
+    website: https://github.com/olopez15401
+    image: githubLogo.png
+  - title: LinkedIn
+    description: LinkedIn Profile
+    website: https://www.linkedin.com/in/oscar-lopez-dev/
+    image: LinkedInLogo.png
+  - title: My Instagram
+    description: A sneak peek into my life and even a first look on upcoming projects!
+    website: https://www.instagram.com/05kr_70p3z/
+    image: igLogo.png
 menu:
     main: 
         weight: -50
@@ -17,21 +21,6 @@ menu:
 
 comments: false
 ---
+Links to my Social Media and Projects!
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+---
