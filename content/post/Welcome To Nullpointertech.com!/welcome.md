@@ -8,9 +8,7 @@ categories:
     - Post
     - Welcome
 ---
+![Alt Text]('Nullpointertech.com.gif')
 
-## Welcome to Nullpointertech.com!
-
-    ![Alt Text](Nullpointertech.com.gif)
-    
+## Welcome to Nullpointertech.com!    
     This is my first post and finally building a blog about all my tech studies and projects!
