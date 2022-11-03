@@ -10,5 +10,7 @@ categories:
 ---
 
 ## Welcome to Nullpointertech.com!
+
+    ![Alt Text](Nullpointertech.com.gif)
     
     This is my first post and finally building a blog about all my tech studies and projects!
